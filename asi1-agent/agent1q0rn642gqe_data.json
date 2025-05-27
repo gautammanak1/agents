@@ -1,0 +1,10 @@
+{
+    "agent1q2eld7zrgzgw265t6achg5ddsqcj7n4e74wt4a8vyl9zvztwpftewcrwa3r": {
+        "handle_request": {
+            "time_window_start": 1746717282.0,
+            "window_size_minutes": 60,
+            "requests": 1,
+            "max_requests": 6
+        }
+    }
+}
